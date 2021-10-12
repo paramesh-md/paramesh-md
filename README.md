@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paramesh
+- 👋 Hi, I’m @paramesh-md
 - 👀 I’m interested in developing multiscale models of brain white matter
 - 🌱 I’m currently working on fractional viscoelastic models applied to soft tissue
 - 💞️ I’m looking to collaborate on Abaqus subroutines 
