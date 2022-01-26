@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @paramesh-md
 - 👀 I’m interested in developing multiscale models of brain white matter
 - 🌱 I’m currently working on fractional viscoelastic models applied to soft tissue
-- 💞️ I’m looking to collaborate on Abaqus subroutines 
 - 📫 I can be reached via email paramesh.pasupathy@rutgers.edu
 
 <!---
